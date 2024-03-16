@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Carmen Jisa\Desktop\ANUL 3\PG\PROIECT2\PROIECT2\main.cpp(162,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Carmen Jisa\Desktop\ANUL 3\PG\PROIECT2\PROIECT2\main.cpp(163,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Carmen Jisa\Desktop\ANUL 3\PG\PROIECT2\PROIECT2\main.cpp(167,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Carmen Jisa\Desktop\ANUL 3\PG\PROIECT2\PROIECT2\main.cpp(168,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Carmen Jisa\Desktop\ANUL 3\PG\PROIECT2\PROIECT2\main.cpp(169,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Carmen Jisa\Desktop\ANUL 3\PG\PROIECT2\PROIECT2\main.cpp(170,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Carmen Jisa\Desktop\ANUL 3\PG\PROIECT2\PROIECT2\main.cpp(393,19): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Carmen Jisa\Desktop\ANUL 3\PG\PROIECT2\PROIECT2\main.cpp(485,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Carmen Jisa\Desktop\ANUL 3\PG\PROIECT2\PROIECT2\main.cpp(486,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PROIECT2.vcxproj -> C:\Users\Carmen Jisa\Desktop\ANUL 3\PG\PROIECT2\x64\Debug\PROIECT2.exe
